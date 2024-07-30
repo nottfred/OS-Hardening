@@ -30,6 +30,9 @@ The cybersecurity team reports that the web server was impacted by a brute force
 Your job is to document the incident in detail, including identifying the network protocols used to establish the connection between the user and the website. you shouod also recommed a security action to prevent brute force attacks in the future.
 
 step by step instructions
+
 Identify the network protocol involved in the incident
+
 Document the incident
+
 Recommend one or more remediations for brute force attacks
