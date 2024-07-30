@@ -15,6 +15,7 @@ In response to this incident, the website owner tries to log in to the admin pan
 To address the incident, you create a sandbox environment to observe the suspicious website behaviour. you run the network protocol analyzer tcpdump, then type in URL of the website, yummyrecipesforme.com. As soon ad the website loads, you are prompted to download an executable file to uodate your browser. you accept the download and allow file to run. you then observe that your browser redirects you to a different URL, greatrecipesforme.com, which contains the malware
 
 The logs show the following process: 
+
 1.The browser initiates a DNS request: it requests the ip address of the yummyrecipesforme.com URL from the DNS server
 
 2.This DNS replies with the correct ip address
